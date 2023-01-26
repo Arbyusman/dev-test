@@ -16,6 +16,10 @@ This project is hosted using vercel
 | Test 2 | `http://localhost/dev-test/index.php/Palindrome` |
 | Test 3 | `http://localhost/dev-test/index.php/C_data` |
 
+
+## ERD
+![ERD](./docs/ERD.png)
+
 ### Test 1
 
 Silahkan melakukan perulangan angka dari 1 - 100
