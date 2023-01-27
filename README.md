@@ -8,7 +8,6 @@ git clone https://github.com/Arbyusman/dev-test.git
 
 ## Routes
 
-This project is hosted using vercel
 
 | Name         | Route                                        |
 | ------------ | -------------------------------------------- |
